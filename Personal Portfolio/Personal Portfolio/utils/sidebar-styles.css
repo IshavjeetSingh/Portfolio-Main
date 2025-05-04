@@ -1,0 +1,47 @@
+/* Sidebar Styles */
+.sidebar {
+    /* width: 200px; Adjust as needed */
+    background-color: var(--rishi-bg-color);
+    border: 1px solid var(--rishi-color);
+    padding: 8px;
+    position: fixed;
+    border-radius: 12px;
+    margin-right: 0.3rem;
+    top: 42%;
+    right: 0;
+    z-index: 999; /* Below sticky header */
+    transition: all 0.3s ease;
+}
+
+@media only screen and (max-width: 991px) {
+    .sidebar {
+        padding: 5px;
+        margin-right: 0.2rem;
+    }
+    
+    .social-links a {
+        font-size: 20px;
+    }
+}
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  
+  .social-links a {
+    color: var(--rishi-color); /* Use your color scheme */
+    text-decoration: none;
+    font-size: 24px; /* Adjust size as needed */
+  }
+  
+  .social-links a:hover {
+    color: #ffffff; /* Change color on hover if desired */
+  }
+  
+  .social-links i {
+    transition: color 0.3s;
+  }
+  

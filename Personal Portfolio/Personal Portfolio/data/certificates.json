@@ -1,0 +1,61 @@
+{
+    "certificates": [
+        {
+            "name": "Cloud Computing",
+            "image": "images/certificates/Cloud Computing Mooc.jpg",
+            "issuer": "NPTEL",
+            "date": "October 2024",
+            "description" : "Covered Cloud Computing fundamentals, cloud architecture, and cloud security concepts."
+        },
+        {
+            "name": "C++ Programming: OOPs and DSA",
+            "image": "images/certificates/c++ mooc.jpg",
+            "issuer": "Coursera",
+            "date": "July 2024",
+            "description" : "Covered C++ Programming fundamentals, including Object-Oriented Programming (OOP) concepts and Data Structures & Algorithms (DSA)."
+        },
+        {
+            "name": "Data Structure & Algorithms using C++",
+            "image": "images/certificates/DSA mooc.jpg",
+            "issuer": "Udemy",
+            "date": "February 2024",
+            "description" : "Covered Data Structures and Algorithms fundamentals using C++, including implementation techniques and problem-solving strategies."
+        },
+        {
+            "name": "Html, CSS and JavaScript",
+            "image": "images/certificates/Frontend certificate.jpg",
+            "issuer": "Coursera",
+            "date": "March 2024",
+            "description" : "Covered HTML, CSS, and JavaScript fundamentals for web development."
+        },
+        {
+            "name": "Server side javascript with node js",
+            "image": "images/certificates/nodejs certificate.jpg",
+            "issuer": "Coursera",
+            "date": "March 2024",
+            "description" : "Covered server-side JavaScript with Node.js, including Express.js and MongoDB."
+        },
+        {
+            "name": "Computer Networking",
+            "image": "images/certificates/network theory certificate.jpg",
+            "issuer": "Coursera",
+            "date": "November 2023",
+            "description" : "Covered computer networking fundamentals, including TCP/IP, network protocols, and network security."
+        },
+        {
+            "name": "Operating Syatem",
+            "image": "images/certificates/Summer Training certificate.jpg",
+            "issuer": "Lovely Professinal University",
+            "date": "june 2024",
+            "description" : ""
+        },
+        {
+            "name": "Building web application in PHP",
+            "image": "images/certificates/PHP Mooc.jpg",
+            "issuer": "Coursera",
+            "date": "November 2024",
+            "description" : ""
+        }
+        
+    ]
+}

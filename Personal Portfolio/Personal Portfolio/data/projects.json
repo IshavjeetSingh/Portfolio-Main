@@ -1,0 +1,34 @@
+{
+    "projects": [
+      {
+        "name": "Online Food Delivery System",
+        "description": "An online food delivery system that allows users to browse menus, place orders, and track deliveries in real-time. Designed to streamline the food ordering process for customers and restaurants. Currently under active development..",
+        "technologies": ["HTML", "CSS", "Node JS", "MySQL", "PHP"],
+        "repo": "",
+        "duration" : "December 2024"
+      },
+      {
+        "name": "Weather Application",
+        "description": "A handy weather application built with the MERN stack and powered by the AccuWeather API. Get accurate, real-time weather data and forecasts right in your browser. Perfect for local development—no extra server configuration needed! Works seamlessly on Windows, and macOS.",
+        "technologies": ["Mongo DB", "Express JS","React JS","Node JS","AccuWeather API"],
+        "repo": "",
+        "duration" :"May 2024"
+      },
+      {
+        "name": "Car Racing Game",
+        "description": "A fun and fast-paced car game built using HTML, CSS, and JavaScript. Race through traffic, dodge obstacles, and test your reflexes all in your browser! No installations needed, just pure arcade action. Play instantly on any modern browser.",
+        "technologies": ["HTML", "CSS", "JS"],
+        "repo": "",
+        "duration" :"November 2024"
+      },
+      {
+        "name": "The Chocolate Shop",
+        "description": "The Chocolate Shop is a full-stack web application built with HTML, CSS, JavaScript, Node.js, and MongoDB. Browse delicious chocolates, place orders, and manage inventory with a user-friendly interface. Includes full CRUD operations for products and orders perfect for learning full-stack development and building real-world e-commerce apps.",
+        "technologies": ["HTML", "CSS", "JS", "Node.js", "MongoDB"],
+        "repo": "",
+        "duration" :"October 2024"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+section {
+    opacity: 0;
+    transform: translateY(50px); 
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.section-in {
+    opacity: 1;
+    transform: translateY(0); 
+}
+
+.section-out {
+    opacity: 0;
+    transform: translateY(50px); 
+}

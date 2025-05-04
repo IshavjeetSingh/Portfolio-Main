@@ -1,0 +1,23 @@
+{
+    "education": [
+        {
+            "degree": "B-Tech CSE",
+            "institution": "Lovely Professional University (LPU)",
+            "location": "Jalandhar Punjab",
+            "duration": "2022-2026"
+        },
+       
+        {
+            "degree": "Intermediate",
+            "institution": "SD Sr Sec School",
+            "location": "Jind, Haryana",
+            "duration": "2021-2022"
+        },
+        {
+            "degree": "Matriculate",
+            "institution": "Arya Sr Sec School",
+            "location": "Jind, Haryana",
+            "duration": "2019-2020"
+        }
+    ]
+}
